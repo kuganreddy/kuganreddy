@@ -14,4 +14,3 @@
 
 - 💻 Visit [my blog](https://kugan.co)
 - 🌱 Currently working on GatsbyJS
-- ⚡ Never settle
