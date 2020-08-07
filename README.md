@@ -14,4 +14,5 @@
 
 <p>This is where I share my projects and experiment with new stuffs.</a></p>
 
-[My Blog](https://kugan.co)
+💻 Visit [my blog](https://kugan.co)
+🌱 Currently learning GatsbyJS
