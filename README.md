@@ -13,4 +13,5 @@
 <p>This is where I share my projects and experiment with new stuffs.</a></p>
 
 - 💻 Visit [my blog](https://kugan.co)
-- 🌱 I'm currently working on GatsbyJS
+- 🌱 Currently working on GatsbyJS
+- 📫 Reach me [here](https://kugan.co#contact)
