@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![kugan.co](https://kugan.co/assets/img/logo.svg =37x)](https://kugan.co)
+[![kugan.co](https://kugan.co/assets/img/logo.svg =100x20)](https://kugan.co)
 
 ### Hello, World! 👋
 
