@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![kugan.co](<img src="https://kugan.co/assets/img/logo.svg" width="100">)](https://kugan.co)
+<img src="https://kugan.co/assets/img/logo.svg" alt="Kugan" width="100">
 
 ### Hello, World! 👋
 
