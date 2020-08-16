@@ -8,6 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![kugan.co](https://kugan.co/assets/img/logo.svg)](https://kugan.co)
+
 ### Hello, World! 👋
 
 <p>This is where I share my projects and experiment with new stuffs.</a></p>
