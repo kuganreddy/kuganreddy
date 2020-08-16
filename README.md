@@ -9,9 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://kugan.co/assets/img/logo.svg" alt="Kugan" width="100">
-
 ### Hello, World! 👋
+---
 
 <p>This is where I share my projects and experiment with new stuffs.</a></p>
 
