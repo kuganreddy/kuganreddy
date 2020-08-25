@@ -1,3 +1,17 @@
+
+<h3 align="center">Hello, World! 👋</h3>
+<p align="center">
+  <a href="https://kugan.co">Website</a> •
+  <a href="https://twitter.com/kugankr">Twitter</a>
+</p>
+
+---
+
+<p>I enjoy creating and experimenting with new stuffs.</a></p>
+
+- 💻 Visit [my blog](https://kugan.co)
+- 🌱 Currently working on Deep Learning & Analytics
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,11 +22,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hello, World! 👋
----
-
-<p>This is where I share my projects and experiment with new stuffs.</a></p>
-
-- 💻 Visit [my blog](https://kugan.co)
-- 🌱 Currently working on GatsbyJS
