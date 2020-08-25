@@ -15,7 +15,7 @@
 I enjoy creating and experimenting with new stuffs.
 
 - 💻 Visit [my blog](https://kugan.co)
-- 🌱 Currently working on Deep Learning & Analytics
+- 🌱 Currently working on machine learning algorithms
 
 <!--
 - 🔭 I’m currently working on ...
