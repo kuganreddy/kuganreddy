@@ -1,6 +1,5 @@
-
-<h3 align="center">Hello, World! 👋</h3>
-<p align="center">
+### Hello, World! 👋
+<p align="left">
   <a href="https://kugan.co">Website</a> •
   <a href="https://twitter.com/kugankr">Twitter</a>
 </p>
