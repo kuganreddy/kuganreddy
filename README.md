@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Kugan](https://kugan.co)!
+### Hello 👋, I'm [Kugan](https://kugan.co)!
 <!--
 <br />
 <a href="https://twitter.com/kugankr">
