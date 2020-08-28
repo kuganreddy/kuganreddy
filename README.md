@@ -1,4 +1,4 @@
-### Hello 👋, I'm [Kugan](https://kugan.co)!
+### Hello 👋, I'm [Kugan](https://kuganreddy.com)!
 <!--
 <br />
 <a href="https://twitter.com/kugankr">
@@ -14,7 +14,7 @@
 
 I enjoy creating and experimenting with new stuffs.
 
-- 💻 Visit [my blog](https://kugan.co)
+- 💻 Visit [my blog](https://kuganreddy.com)
 - 🌱 Currently working on machine learning algorithms
 
 <!--
