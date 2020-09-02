@@ -15,7 +15,7 @@
 I enjoy creating and experimenting with new stuffs.
 
 - 💻 Visit [my blog](https://kuganreddy.com)
-- 🌱 Currently working on machine learning algorithms
+- 🌱 Currently working on ML algorithms
 
 <!--
 - 🔭 I’m currently working on ...
