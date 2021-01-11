@@ -12,7 +12,6 @@
 
 
 I enjoy creating and experimenting with new stuffs.
-🌱 Currently working on MLH Local Hack Day: Build activities
 
 
 <!--
